@@ -1,0 +1,9 @@
+{
+    "Files": {
+        "prefix": "filese",
+        "body": [
+            "Files::file_exists(${1:value});"
+        ],
+        "description": "Files::file_exists"
+    }
+}

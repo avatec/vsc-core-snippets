@@ -1,0 +1,57 @@
+{
+	"name": "core-snippets",
+	"displayName": "Avatec Core Snippets",
+	"version": "1.0.0",
+	"publisher": "avatec",
+	"description": "A fullset of snippets for Avatec Framework Core.",
+	"author": {
+		"name": "Grzegorz Miśkiewicz"
+	},
+	"categories": [
+		"Snippets",
+		"Programming Languages"
+	],
+	"keywords": [
+		"snippets",
+		"productivity",
+		"coding",
+		"php7",
+		"psr"
+	],
+	"icon": "img/avatec-core-snippets.png",
+	"galleryBanner": {
+		"color": "#eceff1",
+		"theme": "light"
+	},
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/avatec/vsc-core-snippets/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/avatec/vsc-core-snippets"
+	},
+	"homepage": "https://github.com/avatec/vsc-core-snippets",
+	"contributes": {
+		"snippets": [
+			{
+				"language": "php",
+				"path": "./snippets/core.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "08f55fc9-f6c0-4899-b7c0-ac9e02747ccf",
+		"publisherId": "98cfb231-9cb9-4d7a-9fb1-e3f762727958",
+		"publisherDisplayName": "Avatec",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1664187995822
+	}
+}
